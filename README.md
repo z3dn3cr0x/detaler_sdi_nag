@@ -1,0 +1,1 @@
+# detaler_sdi_nag
